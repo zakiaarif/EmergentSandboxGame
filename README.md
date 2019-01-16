@@ -16,4 +16,4 @@ Game project for CMPT406
 * **Thomas McKeith** - *Artist*
 * **Monika Weng** - *Programmer / Design*  
 
-See also the list of [contributors](https://github.com/mah985/Oculus-3D-Visualization-Tool/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/mah985/EmergentSandboxGame/graphs/contributors) who participated in this project.
